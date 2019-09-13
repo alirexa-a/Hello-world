@@ -1,1 +1,1 @@
-Test
+print("Yo, Motherfuckers")
